@@ -2,8 +2,8 @@
 
 * [OPENCV](README.md)
 * [opencv chapter4](opencv-chapter4.md)
-
-## 공부
-
-* [study](undefined/study.md)
+* [ddad](ddad.md)
+* [Untitled](untitled-1.md)
+* [Untitled](untitled-2.md)
+* [Untitled](untitled-3.md)
 
