@@ -1,12 +1,12 @@
 # OPENCV
 
-## 공부하러 오시것을 환영합니다
+## OPENCV 공부
 
 ![taekwonv](.gitbook/assets/taekwonv1.jpg)
 
 * BIMSRL  
-  * 신나는 겨울방학 :+1::+1:
+  * 겨울방학 :+1::+1:
   * **@황현진 @이상엽**
 
-> 302호
+> 매주 
 
