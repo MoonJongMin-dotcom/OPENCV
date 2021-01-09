@@ -1,3 +1,3 @@
 # OPENCV
  
- ![taekwonv] (/img/taekwonv1.jpg)
+ ![taekwonv] (C:\Users\lenovo\Documents\GitHub\OPENCV\img/taekwonv1.jpg)
