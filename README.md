@@ -1,3 +1,3 @@
 # OPENCV
  
- ![taekwonv](\img\taekwonv1.jpg)
+ ![taekwonv](/img/taekwonv1.jpg)
