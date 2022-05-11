@@ -1,8 +1,8 @@
 # OPENCV
  ## OPENCV 공부
- ![pika](C:\Users\user\Documents\GitHub\OPENCV\project\pika.gif) 
+ ![pika](\project\pika.gif) 
 
-<video src="C:\Users\user\OPENCV_2nd\output.avi"></video>
+![video](/img/output.avi)
 
  ![BIMSRL](/img/KakaoTalk_20210105_171353153.jpg)
 
