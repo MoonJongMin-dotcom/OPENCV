@@ -1,6 +1,9 @@
 # OPENCV
  ## OPENCV 공부
- ![taekwonv](/img/taekwonv1.jpg) 
+ ![pika](C:\Users\user\Documents\GitHub\OPENCV\project\pika.gif) 
+
+<video src="C:\Users\user\OPENCV_2nd\output.avi"></video>
+
  ![BIMSRL](/img/KakaoTalk_20210105_171353153.jpg)
 
 * BIMSRL  
