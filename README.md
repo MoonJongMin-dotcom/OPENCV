@@ -1,6 +1,10 @@
 # OPENCV
  ## OPENCV 공부
- ![pika](\project\pika.gif) 
+ ![pika](\project\pika.gif)
+
+<img width="100%" src="\project\pika.gif"/>
+
+ 
 
 ![video](/img/output.avi)
 
