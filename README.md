@@ -7,7 +7,6 @@
  ![BIMSRL](/img/KakaoTalk_20210105_171353153.jpg)
 
 * BIMSRL  
-    * 겨울방학 :+1::+1:
-    * __@황현진 @이상엽__
+    * I'm Jong-Min Moon, a graduate student in the Department of Medical Engineering, Konkuk University.:+1::+1:
+    * OPENCV 
 
-> 매주 금요일
